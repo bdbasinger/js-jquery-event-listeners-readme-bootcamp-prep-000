@@ -25,14 +25,10 @@ function submitIt() {
   })
 }
 
-
-
 $(document).ready(function(){
   // Call Functions Here
   getIt()
   frameIt()
   pressIt()
   submitIt()
-  
-
 });
