@@ -1,7 +1,7 @@
-//define functions here
+// Define Functions Here
 
 $(document).ready(function(){
-
-// call functions here
+  // Call Functions Here
+  
 
 });
