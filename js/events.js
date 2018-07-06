@@ -7,6 +7,6 @@ function getIt() {
 
 $(document).ready(function(){
   // Call Functions Here
-  
+  getIt()
 
 });
