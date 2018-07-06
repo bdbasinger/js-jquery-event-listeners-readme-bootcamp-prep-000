@@ -11,6 +11,10 @@ function frameIt() {
   })
 }
 
+function pressIt() {
+  $('input')
+}
+
 
 
 $(document).ready(function(){
